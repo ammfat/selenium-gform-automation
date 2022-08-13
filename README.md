@@ -1,5 +1,5 @@
 # Automate Siklus Form
 
-Automate Google Form filling using Selenium.
+Automate SiklusID's Google Form filling using Selenium.
 
 
